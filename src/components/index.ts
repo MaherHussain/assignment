@@ -1,0 +1,5 @@
+export { default as MainHeader } from './main-header.vue'
+export { default as Navbar } from './nav-bar.vue'
+export { default as MainFooter } from './main-footer.vue'
+export { default as HomeImageCarousel } from './home-image-carousel.vue'
+export { default as ProductCard } from './product-card.vue'
